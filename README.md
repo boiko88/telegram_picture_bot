@@ -1,2 +1,2 @@
 # telegram_wallet_bot
-A telegram wallet bot helping to manage your expenses
+A telegram bot sending you pictures of the most beautiful animals and doing some simple tasks
